@@ -1,1 +1,0 @@
-# Riset-Informatika_22081010103
