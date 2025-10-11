@@ -1,7 +1,5 @@
 # Methods vs Methodology
 
----
-
 ## **Paper 1**  
 **Judul:** *The importance of data transformation in RNA-Seq preprocessing for bladder cancer subtyping* \
 **Link:** https://link.springer.com/article/10.1186/s13104-025-07138-x
